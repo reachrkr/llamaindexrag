@@ -1,2 +1,2 @@
-# llamaindexrag
-LLama index with RAG
+# LLM - GenAI
+Books related to blogs
