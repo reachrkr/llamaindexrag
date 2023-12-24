@@ -1,2 +1,2 @@
 # LLM - GenAI
-Books related to blogs
+NoteBooks related to blogs
